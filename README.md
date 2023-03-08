@@ -1,6 +1,8 @@
 # Analysis-and-Classification-of-Online-learning-of-students-according-to-Flexibility-Level
 
-In this project, we have done the Flexibility Level Analysis & Classificaton of students encountering during Online Learning.
+Let say an edtech company wants to start its courses for students and wondering in which mode they should start online or offline?
+
+So, this project named Flexibility Level Analysis & Classificaton of students encountering during Online Learning can help the company to take a quick decision in selecting of mode of training.
 
 Flexibility is given as- LOW. MODERATE, HIGH
      
